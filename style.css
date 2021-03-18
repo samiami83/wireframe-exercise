@@ -1,9 +1,10 @@
 header {
-  background-color: rgb(8, 156, 65);
+  background-color: grey;
   height: 7rem;
   align-items: center;
   display: flex;
   justify-content: left;
+  
 }
 
 header ul {
@@ -15,10 +16,33 @@ header ul > li {
   display: inline;
   padding: 6rem;
   padding-left: 2rem;
-  color: aqua;
+  color: rgb(190, 192, 192);
 }
 
 header img {
   padding: 5rem;
   padding-right: 0rem;
 }
+
+h1 {
+  width: 100%;
+  align-items: center;
+  background-color: whitesmoke;    
+}
+
+h1 img {
+  display: block;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  width: 100%;
+  background-color: whitesmoke;
+}
+
+h2 img {
+  margin: 30px;
+}
+
