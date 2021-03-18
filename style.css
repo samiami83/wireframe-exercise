@@ -1,0 +1,24 @@
+header {
+  background-color: rgb(8, 156, 65);
+  height: 7rem;
+  align-items: center;
+  display: flex;
+  justify-content: left;
+}
+
+header ul {
+  margin-left: 0rem;
+
+}
+
+header ul > li {
+  display: inline;
+  padding: 6rem;
+  padding-left: 2rem;
+  color: aqua;
+}
+
+header img {
+  padding: 5rem;
+  padding-right: 0rem;
+}
